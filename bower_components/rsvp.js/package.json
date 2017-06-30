@@ -1,0 +1,32 @@
+{
+  "name": "rsvp",
+  "namespace": "RSVP",
+  "version": "3.3.3",
+  "description": "A lightweight library that provides tools for organizing asynchronous code",
+  "main": "rsvp.js",
+  "files": [
+    "rsvp.js",
+    "rsvp.min.js"
+  ],
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tildeio/rsvp.js.git",
+    "dist": "git@github.com:components/rsvp.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tildeio/rsvp.js/issues"
+  },
+  "browser": {
+    "vertx": false
+  },
+  "keywords": [
+    "promises",
+    "futures"
+  ],
+  "author": "Tilde, Inc. & Stefan Penner",
+  "license": "MIT"
+}

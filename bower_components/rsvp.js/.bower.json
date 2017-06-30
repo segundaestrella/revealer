@@ -1,0 +1,24 @@
+{
+  "name": "rsvp.js",
+  "version": "3.5.0",
+  "homepage": "https://github.com/tildeio/rsvp.js",
+  "authors": [
+    "Stefan Penner <stefan.penner@gmail.com>"
+  ],
+  "description": "A lightweight library that provides tools for organizing asynchronous code",
+  "main": "rsvp.js",
+  "keywords": [
+    "promise"
+  ],
+  "license": "MIT",
+  "_release": "3.5.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.5.0",
+    "commit": "23019fefe8dd12ce431fa2c611961f8e909ba52b"
+  },
+  "_source": "https://github.com/components/rsvp.js.git",
+  "_target": "^3.5.0",
+  "_originalSource": "rsvp",
+  "_direct": true
+}
